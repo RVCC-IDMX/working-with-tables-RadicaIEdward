@@ -23,7 +23,6 @@ th {
 tbody {
   font-family: "Roboto Slab", sans-serif;
   color: white;
-  background:
 }
 
 td:nth-child(6){
@@ -33,6 +32,6 @@ td:nth-child(6){
 .table-container {
   width: 50%;
   margin: auto;
-  background-color: rgba(0, 0, 0, .40)
+  background-color: rgba(0, 0, 0, .40);
   
 }
