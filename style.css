@@ -11,9 +11,14 @@ h1 {
   text-align: center;
 }
 
-thead,h1  {
+thead, h1, caption  {
   font-family: "Raleway", sans-serif;
   color: white;
+}
+
+caption {
+  font-size: small;
+  color: gray;
 }
 
 th {
