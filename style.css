@@ -1,3 +1,38 @@
 body {
-  background-color: aliceblue;
+  background-color: black;
+  background: url('img/fabio-oyXis2kALVg-unsplash.jpeg');
+  background-position-y: 90%;
+  background-position-x: 50%;
+  background-attachment: fixed;
+}
+
+
+h1 {
+  text-align: center;
+}
+
+thead,h1  {
+  font-family: "Raleway", sans-serif;
+  color: white;
+}
+
+th {
+  text-align: start;
+}
+
+tbody {
+  font-family: "Roboto Slab", sans-serif;
+  color: white;
+  background:
+}
+
+td:nth-child(6){
+  text-align: center;
+}
+
+.table-container {
+  width: 50%;
+  margin: auto;
+  background-color: rgba(0, 0, 0, .40)
+  
 }
